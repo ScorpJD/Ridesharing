@@ -1,0 +1,7 @@
+c_id	ov	dv	READY TIME	DUE DATE	prefer_arrival_time
+0	0	6	15		30		50
+1	1	7	15		30		55
+2	2	8	20		25		45	
+3	3	9	20		30		60
+4	4	10	15		25		60	
+5	5	11	20		25		75
